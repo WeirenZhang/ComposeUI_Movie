@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComposeUI_Movie</string>
+    <string name="loading_error">載入失敗</string>
+    <string name="loading">載入中...</string>
+    <string name="no_more">没有更多了</string>
+    <string name="back">返回</string>
+    <string name="add_favourite">添加收藏成功！</string>
+    <string name="remove_favourite">移除收藏成功！</string>
+    <string name="favourite">favourite</string>
+</resources>
